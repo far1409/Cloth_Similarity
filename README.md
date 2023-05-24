@@ -27,7 +27,9 @@ Example Usage
 
 ### Steps to follow:
 1. Install the required dependencies listed in the requirements.txt file.
+
 pip install -r requirements.txt
+
 Run the Flask API using the following command:
 python app.py
 The API will start running on "http://127.0.0.1:5001"
