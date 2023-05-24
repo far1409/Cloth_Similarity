@@ -38,4 +38,4 @@ The API logs the request and response details to a log file named cloth_similari
 Please note that this documentation assumes you have the necessary data file (final.csv) and the required dependencies installed. Adjust the API endpoint URL and other configurations based on your deployment environment.
 
 ## Note: 
-Tool Used for scrpping: instant data scrapper
+Tool Used for scraping: Instant Data Scrapper
