@@ -14,8 +14,11 @@ The API returns a JSON response with the following format:
     "product_link": "URL1"
 ]
 product_link (string): The URL of the similar product.
+
 rating (string): The rating of the similar product.
+
 Example Usage
+
 
 {
   "input_text": "POLO shirts under 500",
